@@ -15,3 +15,6 @@ This will give you a payload.png
 4\. It will create a site.zip file with everything you need. (Apache is required for the redirects)
 
 5\. To test this you will need to setup a dns server (dnsmasq works great) and redirect cfh.wapp.wii.com to your site.
+
+## NOTE
+This is not meant to insult Fullmetal5. It's just a version of str2hax without the Rainbow Dash image. That's literally it.
